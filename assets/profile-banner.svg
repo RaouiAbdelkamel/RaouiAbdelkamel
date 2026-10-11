@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Abdelkamel Raoui — Cloud Security &amp; DevSecOps</title>
+  <desc id="desc">Dark navy banner with teal network lines and a shield. Cybersecurity engineering student, EMSI Rabat.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08131f"/><stop offset="1" stop-color="#132c38"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#51e4be"/><stop offset="1" stop-color="#59b9ef"/></linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+  <g stroke="#295061" stroke-width="1" opacity=".4">
+    <path d="M860 0V320M940 0V320M1020 0V320M1100 0V320M1180 0V320M780 80H1280M780 160H1280M780 240H1280"/>
+  </g>
+  <rect x="56" y="48" width="44" height="4" rx="2" fill="url(#accent)"/>
+  <text x="56" y="88" fill="#84a9b6" font-family="Arial, sans-serif" font-size="15" letter-spacing="3">SECURITY THROUGH ENGINEERING</text>
+  <text x="56" y="149" fill="#f0f6fa" font-family="Arial, sans-serif" font-size="48" font-weight="700">Abdelkamel Raoui</text>
+  <text x="56" y="195" fill="#62d9c3" font-family="Arial, sans-serif" font-size="26">Cloud Security &amp; DevSecOps</text>
+  <text x="56" y="243" fill="#b0c5cf" font-family="Arial, sans-serif" font-size="18">Cybersecurity Engineering Student · EMSI Rabat</text>
+  <text x="56" y="277" fill="#88a5b4" font-family="Arial, sans-serif" font-size="16">Terraform / OCI / Kubernetes / Python</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="2">
+    <path d="M1040 73l64 24v54c0 46-31 75-64 93-33-18-64-47-64-93V97z" fill="#102d37"/>
+    <path d="M1011 153l20 20 40-43" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M976 123h-65v-44h-34M1104 123h68v-35h45M976 190h-71v61h-40M1104 190h69v61h44"/>
+  </g>
+  <g fill="#62d9c3"><circle cx="877" cy="79" r="5"/><circle cx="1217" cy="88" r="5"/><circle cx="865" cy="251" r="5"/><circle cx="1217" cy="251" r="5"/></g>
+</svg>
